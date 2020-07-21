@@ -1,4 +1,5 @@
 ##### NOTICE: If you want a README.md on your profiles like this, just make a repsitory, and name it whatever your username is. E.g. Jme7, The Octocat, INSERT USERNAME HERE
 ### Hi there 👋
-- :hammer: I’m currently working on [My Webpage](https://Jme7.github.io), and some templates (like a [Webpage template](https://github.com/Jme7/Webpage-template/)) :hammer:
+- :hammer: I’m currently working on my webpage, and some templates :hammer:
 - :book::robot: I am also doing GitHub Learning Lab, and it is pretty cool :robot::book:
+- :globe_with_meridians: [My Website is here](Jme7.github.io) :globe_with_meridians:
